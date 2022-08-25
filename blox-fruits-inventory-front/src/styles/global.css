@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  @apply bg-blue-200;
+  -webkit-font-smoothing: antialiased;
+  overflow-x:hidden;
+}
